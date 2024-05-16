@@ -20,9 +20,9 @@ Archive Page
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
+-   Gautam Mendiratta - follow me on 👇
+-   [GitHub]()
+-   [LinkedIn]()
 
 
 ## Live Link
