@@ -22,7 +22,7 @@ Archive Page
 
 -   Gautam Mendiratta - follow me on 👇
 -   [GitHub]()
--   [LinkedIn]()
+-   [LinkedIn](https://www.linkedin.com/in/gautam-mendiratta-090234214/)
 
 
 ## Live Link
