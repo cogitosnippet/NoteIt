@@ -21,7 +21,7 @@ Archive Page
 ## Author
 
 -   Gautam Mendiratta - follow me on 👇
--   [GitHub]()
+-   [GitHub](https://github.com/cogitosnippet)
 -   [LinkedIn](https://www.linkedin.com/in/gautam-mendiratta-090234214/)
 
 
