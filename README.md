@@ -36,7 +36,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git 
+  git https://github.com/cogitosnippet/NoteIt.git
 ```
 
 Open the project directory in a new window and run the html file
